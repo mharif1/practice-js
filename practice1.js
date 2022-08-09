@@ -4,4 +4,4 @@ const apples =300;
 
 const totalcost = oranges + apples ;
 const moneyRemaining =gaveMoney - totalcost ;
-console.log(moneyRemaining)
+console.log(moneyRemaining);
